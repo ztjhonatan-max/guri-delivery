@@ -1,2 +1,2 @@
 # guri-delivery
-App Guri Deliveru
+App Guri Delivery
